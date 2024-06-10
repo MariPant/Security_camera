@@ -61,7 +61,7 @@ src/
 
 ## How It Works
 
-1. **Load Encoding Images:**
+1. **Load Images:**
    The program loads images from the `images` directory and encodes them using the `face_recognition` library. These encodings are stored along with the corresponding names.
 2. **Capture Video:**
    The program captures video from the default camera (you can change the source if needed).
